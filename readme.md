@@ -39,7 +39,6 @@ Just as in a real life scenario, the data and your analysis will not always be c
 - Download the [airline data](./assets/datasets/airport_operations.csv).
 - Grab the [starter code](./code/starter-code/starter_code.ipynb) to get started. 
 
-> [Solution code here](./code/solution-code/solution_code.ipynb)
 
 #### Deliverable
 
